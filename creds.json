@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "macbuildserver-315308",
+  "private_key_id": "bbb09564477e1d9f7fd1c1c1318407a4f5b4b34f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCNRi13313axdxc\n0oYyHHZ+VBErj81OAZJ/ZvjAMOP1qCuePDl3gos23Ru2O2Um0ghfF/FaHFONqB/5\nGKpDjaWnHLGzwheFMVrNjLa3fuUfI30GsRHRNXGNvQSzT9vXm7+Rc/Qm0WwaZsqA\nZAb1ujC/w0gUDgbvSPmdMqtYePdmH2qzhS+Kv7jcUfmwdzdvuhjienJ5rp0fcItx\nWjuV2vv+UlDKt6fYZ464GtN/q8JmvfhGOwn7innNtC/yegz/rEZq7iupf2DYmE6S\nfgRofDsdQVteat/2iUoJUZ+t4c7MG+GHnJWvi1lBRgzQmXvHqR/qKSTgML2pTmCk\nbWJvkPWpAgMBAAECggEAEV24seE6LC4RmTLzVlZfngaXQD26eO3yTFkz94sjAJQC\nPZ6tWUKpuo4qTYfGVsPvjcH3lBJClpmdyYz1xB1VyUG6mexgYAn5vaYAIXUWtPHT\nuQZ7+FXLnkbnnKOy1HGTtk10zC9G7MVpO+hf3yW6v53hnr59LX2w2nkrrTHchpfk\nC3yIN0I2mZAHcnL8I+6FqFDQ+ZLPS0l/mn8cmrq7Z7V6V3wY6kjTww9C6kFjpRit\nRUKS6Pj4NvnsV3u5pxIHwPN/ry+Dzwp0Pa1ycrKpIvvli0YvbSomERLwzUvfYULQ\nff0wqfDKtddwpNWSbpf+SDjy0YLSZyVMU2DK/d6zgQKBgQDDxdBijfcHNcB8Gmcd\narCDst9b9x35BXZ3ORj7YuevPPqJbuu0RQYr7oRyQqg7BfAVVX1juTDJKYHUNlao\nM/OCIVwUCriGChP9eogvNnSN+8whCX1iir7ah5gdwmCveHwveLyL8IrNStuSJmRz\nL9djd4uGf6GlSEAu/Coj3gHdgQKBgQC4vExlDSKw60EbMG8ewtYwP074/hz1+NUA\nqkOfdrlhwPopcpc5fjOEqE7i31FAMKXV8hGIEcp2/tw4cQbt2EegSd1R9gW2wgEV\nnVq7n0i1lzkAYX8Fwue7C7BBoaIPx4pVU7PTzOXnoZUQmqtUw+2f234XLdGGIVP+\nQp2xqvp8KQKBgQCVbdzkDOY7+5xDXcfNHU1ECPkR8ipPlArbb5qQ7upWyJ2W3zJL\n88+FIta3fAd6ncqmDg3aW1VQhj0RpLQ6SQUaE6p7pb84mGKvvKJMHy2R3lrt8Jdi\n6vJITO0f8ejopndrqKWJzv2zOusjv+g2P5MQ2gOGks7oIKDU/CaSH/eegQKBgG3o\nYY8xbHVT0e1qOIJVqvcTg1myXeqdu6RkqEzkZtDY7jzgl0Y2ZlJDjIOAF6gYCWIr\nXfDVnN6FLOJLpLK3HY4oxAsyUx3zeI+yibvcvXaEXP50Aw2bcyEeiCPUFUZMEmpH\nnVKishnIUZaKXurUkrir7u29bc3eYEmCuq1sqxBZAoGAdTLyOIPy5DI/PAsb0kyE\nX+idNTDYMlMIOeZabU7ZsP7TeXrmEObcMjHPLVYiQ/qNns9I+ojrZCVdVzpNIisL\nIE/wl1QW6aXAZllT4TCn4Lp8THBbp0ToKl1p+W/LtEiDnR5SFi59+qnmHOuRZWXA\nNU0cRI1tzz09fZqphk+487U=\n-----END PRIVATE KEY-----\n",
+  "client_email": "account@macbuildserver-315308.iam.gserviceaccount.com",
+  "client_id": "111764253366072624353",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/account%40macbuildserver-315308.iam.gserviceaccount.com"
+}
